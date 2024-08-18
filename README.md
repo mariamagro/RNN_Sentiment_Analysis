@@ -12,7 +12,7 @@ The implementation is based on tasks provided by Pablo M. Olmos.
 
 ## Projects
 
-### 1. Sentiment Analysis with RNNs**
+### 1. Sentiment Analysis with RNNs
 
 **Notebook:** [Sentiment_Analysis.ipynb](Sentiment_Analysis.ipynb)
 
@@ -25,7 +25,7 @@ This project involves building a sentiment analysis model using Recurrent Neural
 - **Training and Evaluation:** The model is trained on labeled data and evaluated based on performance metrics such as accuracy, precision, and recall.
 
 
-### 2. RNNs for Sentiment Analysis with Attention**
+### 2. RNNs for Sentiment Analysis with Attention
 
 **Notebook:** [Sentiment_Analysis_with_Attention.ipynb](Sentiment_Analysis_with_Attention.ipynb)
 
