@@ -6,9 +6,9 @@ This repository contains implementations of two distinct projects focusing on se
 The implementation is based on tasks provided by Pablo M. Olmos.
 
 **Completed by:**
-- **Marina Gómez Rey** (https://github.com/MarinaGRey)
+- **María Ángeles Magro Garrote** - [mariamagro](https://github.com/mariamagro)
+- **Marina Gómez Rey** - [MarinaGRey](https://github.com/MarinaGRey)
 - **Ángela Durán**
-- **María Ángeles Magro Garrote**
 
 ## Projects
 
